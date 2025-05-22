@@ -4,7 +4,7 @@
       {
         "appIDs": [ "V9354PY643V9354PY643.com.agl.tigerbooking.dev" ],
         "components": [
-          { "/": "/*" }
+          { "/DeepLinkSample/": "/*" }
         ]
       }
     ]

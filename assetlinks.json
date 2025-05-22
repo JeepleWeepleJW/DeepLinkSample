@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.tigergds.heyteetime.dev",
+      "sha256_cert_fingerprints": [
+        "2C:8F:81:F8:B4:63:69:AC:C8:00:E4:4B:B3:CB:4A:BB:56:39:AA:01:F5:9A:8F:3E:FE:1F:15:CE:01:47:6F:5B"
+      ]
+    }
+  }
+]

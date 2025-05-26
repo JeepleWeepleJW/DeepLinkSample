@@ -9,7 +9,7 @@
             "exclude": true
           },
           {
-            "/": "/linkprice/*"
+            "/": "/linkprice/gateway"
           }
         ]
       }

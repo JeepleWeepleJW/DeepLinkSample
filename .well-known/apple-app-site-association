@@ -4,7 +4,13 @@
       {
         "appIDs": [ "V9354PY643.com.agl.tigerbooking.dev" ],
         "components": [
-          { "/": "/linkprice/*" }
+          {
+            "/": "/",
+            "exclude": true
+          },
+          {
+            "/": "/linkprice/*"
+          }
         ]
       }
     ]
